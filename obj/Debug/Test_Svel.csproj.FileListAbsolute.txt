@@ -1,0 +1,10 @@
+G:\Project\Test_Svel\bin\Debug\Test_Svel.exe.config
+G:\Project\Test_Svel\bin\Debug\Test_Svel.exe
+G:\Project\Test_Svel\bin\Debug\Test_Svel.pdb
+G:\Project\Test_Svel\obj\Debug\Test_Svel.csproj.AssemblyReference.cache
+G:\Project\Test_Svel\obj\Debug\Test_Svel.Properties.Resources.resources
+G:\Project\Test_Svel\obj\Debug\Test_Svel.csproj.GenerateResource.cache
+G:\Project\Test_Svel\obj\Debug\Test_Svel.csproj.CoreCompileInputs.cache
+G:\Project\Test_Svel\obj\Debug\Test_Svel.exe
+G:\Project\Test_Svel\obj\Debug\Test_Svel.pdb
+G:\Project\Test_Svel\obj\Debug\Test_Svel.Form1.resources
